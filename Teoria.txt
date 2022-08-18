@@ -1,0 +1,9 @@
+Explica con tus propias palabras los siguientes conceptos.
+
+- Que es un hashTable?
+
+- Que hace un get 
+
+- Que hace un set
+
+- Para que sirve un hashTable?
