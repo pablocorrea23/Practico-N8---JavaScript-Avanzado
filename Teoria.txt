@@ -1,9 +1,13 @@
 Explica con tus propias palabras los siguientes conceptos.
 
 - Que es un hashTable?
+    Son estructuras de datos que permiten crear una lista de valores en par-clave. esto esta asociado a la encriptación.
 
 - Que hace un get 
+    se usa cuando queremos requerir información de algun lugar.
 
 - Que hace un set
+    permite establecer reglas cuando creamos instancias.
 
 - Para que sirve un hashTable?
+    se utilizan para almacenar un numero elevado de datos sobre los que se necesitan operaciones de busqueda e inserción muy eficientes.
